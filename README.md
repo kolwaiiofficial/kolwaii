@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/6939d719-1b00-48cf-beaa-9b10f0843506)
 # Kawaii Solana Twitter Bot 🌸
 
 A cute and powerful Twitter bot that integrates with the Solana blockchain, bringing Web3 updates with a kawaii personality! ✨
